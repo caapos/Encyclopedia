@@ -12,7 +12,7 @@ In the Middle Ages, courtly love emerged as a literary genre, focusing on chival
 
 Love manifests in various forms, each with distinct characteristics:
 
-1. **[Romantic Love](./Romantic%20Love.md)**: This type of love involves emotional and physical attraction between partners. It often includes a desire for a long-term, intimate relationship. Romantic love is celebrated in poetry, literature, and popular media, emphasizing passion, commitment, and mutual care.
+1. **[Romantic Love](./Romantic Love)**: This type of love involves emotional and physical attraction between partners. It often includes a desire for a long-term, intimate relationship. Romantic love is celebrated in poetry, literature, and popular media, emphasizing passion, commitment, and mutual care.
 
 2. **Familial Love**: Also known as storge, this type of love describes the bonds between family members, such as between parents and children or among siblings. It is characterized by loyalty, support, and a deep sense of responsibility.
 
