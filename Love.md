@@ -12,15 +12,15 @@ In the Middle Ages, courtly love emerged as a literary genre, focusing on chival
 
 Love manifests in various forms, each with distinct characteristics:
 
-1. **[Romantic Love](./Romantic Love)**: This type of love involves emotional and physical attraction between partners. It often includes a desire for a long-term, intimate relationship. Romantic love is celebrated in poetry, literature, and popular media, emphasizing passion, commitment, and mutual care.
+1. **[Romantic Love](./Romantic Love.md)**: This type of love involves emotional and physical attraction between partners. It often includes a desire for a long-term, intimate relationship. Romantic love is celebrated in poetry, literature, and popular media, emphasizing passion, commitment, and mutual care.
 
-2. **Familial Love**: Also known as storge, this type of love describes the bonds between family members, such as between parents and children or among siblings. It is characterized by loyalty, support, and a deep sense of responsibility.
+2. **[Familial Love](./Familial Love.md)**: Also known as storge, this type of love describes the bonds between family members, such as between parents and children or among siblings. It is characterized by loyalty, support, and a deep sense of responsibility.
 
-3. **Friendship**: Known as philia in Greek, friendship is a non-romantic bond between individuals. It involves mutual respect, affection, and a shared sense of values and interests. Friendships are crucial for emotional support and personal growth.
+3. **[Friendship](./Friendship.md)**: Known as philia in Greek, friendship is a non-romantic bond between individuals. It involves mutual respect, affection, and a shared sense of values and interests. Friendships are crucial for emotional support and personal growth.
 
-4. **Self-Love**: Often referred to as self-esteem or self-respect, self-love is the regard for one's own well-being and happiness. It is essential for mental health and personal fulfillment.
+4. **[Self-Love](./Self Love.md)**: Often referred to as self-esteem or self-respect, self-love is the regard for one's own well-being and happiness. It is essential for mental health and personal fulfillment.
 
-5. **Unconditional Love**: This form of love is selfless and altruistic, often described as agape. It involves caring for others without expecting anything in return. Unconditional love is frequently associated with parental love, spiritual devotion, and humanitarian efforts.
+5. **[Unconditional Love](./Unconditional Love.md)**: This form of love is selfless and altruistic, often described as agape. It involves caring for others without expecting anything in return. Unconditional love is frequently associated with parental love, spiritual devotion, and humanitarian efforts.
 
 ## Psychological and Biological Aspects
 
