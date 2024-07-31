@@ -1,4 +1,4 @@
-### Encyclopedia: An Encyclopedic Overview
+### Encyclopedia
 
 **Encyclopedia** (alternatively spelled encyclopaedia) is a comprehensive reference work containing articles on a wide range of subjects or on numerous aspects of a particular field. The purpose of an encyclopedia is to provide general information or a summary of knowledge, typically arranged alphabetically or thematically, covering all branches of human knowledge or specific subjects in detail.
 
